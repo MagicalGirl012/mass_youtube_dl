@@ -29,3 +29,4 @@ youtube_scrap.py
 
 ~NOTE~
     -Archives are automatically generated this time around for ease of management
+    -When program is run, will automatically create file system for songs
